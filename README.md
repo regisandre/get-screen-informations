@@ -1,3 +1,3 @@
-# Project name
+# Screen information library
 
-Description
+Library: Screen information - Java
